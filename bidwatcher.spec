@@ -19,7 +19,7 @@ that can track auctions and perform automated bids called 'snipes'.
 %description -l pl
 Bidwatcher to narzêdzie przeznaczone dla u¿ytkowników serwisu
 aukcyjnego eBay. Jest to samodzielna aplikacja pozwalaj±ca ¶ledziæ
-auktcje, automatyzowaæ licytacje.
+aukcje, automatyzowaæ licytacje.
 
 %prep
 %setup -q
