@@ -1,12 +1,12 @@
 Summary:	Track and snipe eBay auctions
 Summary(pl):	¦ledzenie i licytowanie aukcji eBay
 Name:		bidwatcher
-Version:	1.3.16
+Version:	1.3.17
 Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://dl.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
-# Source0-md5:	d134b1a79968bc91d9fbde83b880b50e
+# Source0-md5:	ea576cb86dcf36abe18436e0eba15a30
 BuildRequires:	gtk+-devel >= 1.2.10
 BuildRequires:	libstdc++-devel
 URL:		http://bidwatcher.sourceforge.net/
