@@ -5,11 +5,11 @@ Version:	1.3.17
 Release:	1
 License:	GPL
 Group:		X11/Applications
-Source0:	http://dl.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
+Source0:	http://dl.sourceforge.net/bidwatcher/%{name}-%{version}.tar.gz
 # Source0-md5:	ea576cb86dcf36abe18436e0eba15a30
+URL:            http://bidwatcher.sourceforge.net/
 BuildRequires:	gtk+-devel >= 1.2.10
 BuildRequires:	libstdc++-devel
-URL:		http://bidwatcher.sourceforge.net/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
@@ -25,7 +25,6 @@ aukcje, automatyzowaæ licytacje.
 %setup -q
 
 %build
-
 %configure2_13
 %{__make}
 
