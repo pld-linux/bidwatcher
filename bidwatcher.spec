@@ -7,7 +7,7 @@ License:	GPL
 Group:		X11/Applications
 Source0:	http://dl.sourceforge.net/bidwatcher/%{name}-%{version}.tar.gz
 # Source0-md5:	ea576cb86dcf36abe18436e0eba15a30
-URL:            http://bidwatcher.sourceforge.net/
+URL:		http://bidwatcher.sourceforge.net/
 BuildRequires:	gtk+-devel >= 1.2.10
 BuildRequires:	libstdc++-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
