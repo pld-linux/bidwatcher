@@ -1,5 +1,5 @@
 Summary:	Track and snipe eBay auctions
-Summary(pl):	¦ledzenie i licytowanie aukcji eBay
+Summary(pl.UTF-8):   Åšledzenie i licytowanie aukcji eBay
 Name:		bidwatcher
 Version:	1.3.17
 Release:	1
@@ -16,10 +16,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Bidwatcher is a tool for eBay users. It is a stand alone application
 that can track auctions and perform automated bids called 'snipes'.
 
-%description -l pl
-Bidwatcher to narzêdzie przeznaczone dla u¿ytkowników serwisu
-aukcyjnego eBay. Jest to samodzielna aplikacja pozwalaj±ca ¶ledziæ
-aukcje, automatyzowaæ licytacje.
+%description -l pl.UTF-8
+Bidwatcher to narzÄ™dzie przeznaczone dla uÅ¼ytkownikÃ³w serwisu
+aukcyjnego eBay. Jest to samodzielna aplikacja pozwalajÄ…ca Å›ledziÄ‡
+aukcje, automatyzowaÄ‡ licytacje.
 
 %prep
 %setup -q
