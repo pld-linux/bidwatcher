@@ -1,5 +1,5 @@
 Summary:	Track and snipe eBay auctions
-Summary(pl.UTF-8):   Śledzenie i licytowanie aukcji eBay
+Summary(pl.UTF-8):	Śledzenie i licytowanie aukcji eBay
 Name:		bidwatcher
 Version:	1.3.17
 Release:	1
